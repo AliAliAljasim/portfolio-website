@@ -99,10 +99,9 @@ export const experience = [
     location: "Montreal, Quebec",
     description: "Developing AI-powered agent tools to automate complex, repetitive tasks.",
     achievements: [
-      "Developed an AI-powered Agent tool leveraging optimised agents to automate repetitive tasks, reducing manual workload by close to 80%.",
-      "Built and optimised Python frontend components to create user-friendly AI Agents, enhancing product quality and customer satisfaction.",
-      "Engineered AI agents with precise prompts to accelerate processes, reducing customer workloads and enhancing operational efficiency.",
-      "Continuously improving user interface designs and functionality to meet industry-specific needs."
+      "Automated repetitive enterprise workfl ows saving ~10–15 hours of manual work per week by developing AI-powered autonomous agents designed to solve operational tasks",
+      "Improved AI agent execution speed by ~30% by building optimised Python-based interfaces and agent interaction pipelines",
+      "Increased AI response accuracy by ~90% through advanced prompt engineering strategies for autonomous agent workflows"
     ]
   },
   {
@@ -112,10 +111,9 @@ export const experience = [
     location: "Longueuil, Quebec",
     description: "Developed an AI-powered tool for engineering industries with ChatGPT-level functionality.",
     achievements: [
-      "Developed an AI-powered tool for engineering industries with ChatGPT-level functionality, enhancing industry-specific user interaction.",
-      "Built and optimized frontend components using Svelte, Python, and HTML, enhancing seamless user experiences and interface responsiveness.",
-      "Collaborated with backend teams to integrate AI models, ensuring seamless frontend-backend functionality.",
-      "Enhanced user interface designs iteratively to meet evolving industry-specific requirements, improving user satisfaction."
+      "Developed frontend architecture for an AI-powered engineering assistant platform supporting 800+ engineering users by building interactive components using Svelte and HTML, integrating Python backend APIs",
+      "Improved application responsiveness by ~35% by reducing component render cycles and implementing lazy loading for large UI modules.",
+      "Accelerated AI feature integration speed by ~40% by collaborating with backend engineers to deploy and connect machine learning models into the application"
     ]
   },
   {
@@ -125,9 +123,9 @@ export const experience = [
     location: "Markham, Ontario",
     description: "Conducted technical repairs and maintenance on industrial equipment, large-scale servers, and corporate software systems.",
     achievements: [
-      "Conducted technical repairs and maintenance on industrial equipment, large-scale servers, and corporate software systems including Oracle and aSa.",
-      "Managed server migrations to AWS, optimising infrastructure for scalability and performance.",
-      "Collaborated with cross-functional teams to troubleshoot and resolve complex system issues, ensuring minimal downtime."
+      "Improved reliability of enterprise server and industrial equipment infrastructure across 10+ internal systems by diagnosing and resolving hardware and software failures using Oracle systems, proxy networks, and enterprise development tools",
+      "Increased infrastructure scalability and deployment effi ciency by ~30% by assisting in the migration of 20+ enterprise server workloads to AWS cloud environments",
+      "Reduced system downtime incidents by ~25% by collaborating with cross-functional engineering teams to troubleshoot and resolve complex infrastructure and networking issues"
     ]
   }
 ]
