@@ -5,7 +5,7 @@ import { personalInfo, experience, education } from '../data/portfolioData'
 
 const About = () => {
   const stats = [
-    { icon: FaCode, number: '3', label: 'Projects Built' },
+    { icon: FaCode, number: '4', label: 'Projects Built' },
     { icon: FaRocket, number: '3', label: 'Internships' },
     { icon: FaAward, number: '3.10', label: 'GPA' },
     { icon: FaUsers, number: '3', label: 'Languages Spoken' }
