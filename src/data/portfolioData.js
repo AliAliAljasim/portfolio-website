@@ -145,7 +145,7 @@ export const worksInProgress = [
     title: "Study Seas - The All in One Study App",
     description: "Converting the AI-Powered Study App into a cross-platform Native ReactJS application, enhancing accessibility and user experience across devices.",
     technologies: ["Typescript", "ReactJS"],
-    progress: 80,
+    progress: 95,
     github: "#",
     status : "In Progress",
   },
